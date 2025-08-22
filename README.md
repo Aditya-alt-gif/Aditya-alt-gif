@@ -2,7 +2,6 @@
 - 👀 I’m interested in problem solving
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on linkedin
-- 📫 How to reach me insta @__ady.20
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: me
 
